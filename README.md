@@ -16,7 +16,7 @@ Tap the QR code onto the sensor and then you will get:
 
 2. The documents you may need according to your membership in AP-CCN.
 
-3. The ballot the match your membership if there is any election. 
+3. The ballot that match your membership if there is any election. 
 
 
 ### Usage
@@ -29,4 +29,4 @@ Just tap your QR code on your device and all things above can be done.
 Each member can only use a QR code ONCE, and each QR code is only allowed for ONLY ONE member to use.
 
 
-@ AP-CCN. All rights reserved.
+@ AP-CCN, 2019, Hsinchu, Taiwan. All rights reserved.
